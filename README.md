@@ -6,6 +6,12 @@ Meu primeiro projeto desenvolvido em HTML durante meus estudos de desenvolviment
 
 **Site:** https://0lucas-s.github.io/portfolio/
 
+### V1
+- ✅ Estrutura inicial em HTML
+- ✅ Primeiro layout com CSS
+- ✅ Seções de Sobre, Projetos e Contato
+- ✅ Publicado com GitHub Pages
+
 ## 🛠️ Tecnologias utilizadas
 
 - HTML
