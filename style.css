@@ -1,0 +1,138 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  margin: 80px auto 50px;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+nav {
+  margin-top: 10px;
+}
+nav a{
+  background-color: rgb(103, 99, 99);
+  border-radius: 8px;
+  padding: 3px;
+  margin: auto 5px;
+  color: rgb(24, 24, 25);
+  text-decoration: none;
+}
+
+body {
+  background-color: rgb(25, 25, 32);
+  color: rgb(172, 178, 183);
+  font-family: "Alice", serif;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+img {
+  display: block;
+  margin: auto;
+  border-radius: 1000px;
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+article{
+  margin: 50px auto;
+  
+}
+#sobre-mim h2,
+#sobre-mim p {
+  background-color: rgb(16, 16, 21); 
+  padding: 10px;  
+  border-radius: 10px;
+}
+#sobre-mim p {
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 30px;
+  border-top-left-radius: 0px;border-top-right-radius: 0px;
+}
+#sobre-mim h2 {
+  padding-top: 20px;
+  max-width: 600px;
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+  border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;
+}
+
+#habilidades {
+  max-width: 600px;
+  margin: auto auto 50px auto ;
+  background-color: rgb(16, 16, 21);
+  border-radius: 10px;
+
+}
+
+#habilidades h2 {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 50px;
+}
+#habilidades p {
+  padding-top: 20px;
+  text-align: center;
+}
+
+ol {
+  padding: 20px 30px;  
+}
+ul {
+  padding: 20px 30px;
+}
+li {
+  margin-bottom: 4px;
+}
+
+#projetos {
+  max-width: 600px;
+  margin: auto auto 50px auto;
+  background-color: rgb(16, 16, 21);
+  border-radius: 10px;
+}
+
+#projetos h2 {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 20px;
+}
+
+#projetos p {
+  padding-top: 20px;
+  text-align: center;  
+}
+
+#projetos a{
+  text-decoration: none;
+}
+
+#contato {
+  max-width: 600px;
+  margin: auto auto 50px auto ;
+  background-color: rgb(16, 16, 21);
+  border-radius: 10px;
+}
+
+#contato h2 {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 20px;
+}
+
+footer {
+  text-align: center;
+}
