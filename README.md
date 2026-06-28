@@ -8,7 +8,6 @@ Meu primeiro projeto desenvolvido em HTML durante meus estudos de desenvolviment
 
 ### V1
 - ✅ Estrutura inicial em HTML
-- ✅ Primeiro layout com CSS
 - ✅ Seções de Sobre, Projetos e Contato
 - ✅ Publicado com GitHub Pages
 
